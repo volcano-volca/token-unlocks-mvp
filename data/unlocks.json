@@ -1,82 +1,22 @@
 {
-  "updated_at": "2026-10-11T03:06:44.532851+00:00",
+  "updated_at": "2026-10-13T07:50:50.728636+00:00",
   "source": "dropstab.com (public pages)",
   "disclaimer": "数据来自第三方公开页面整理，仅供参考，不构成投资建议；关键事件请以项目官方披露为准。",
   "tokens": [
     {
-      "symbol": "PUMP",
-      "slug": "pump-fun",
-      "price_usd": 0.00549,
-      "market_cap_usd": null,
-      "next_unlock_tokens": 8960000000.0,
-      "next_unlock_usd": 49180000.0,
-      "next_unlock_mcap_pct": 1.93,
-      "upcoming_events": [
-        {
-          "date": "2026-10-12",
-          "allocation": "Existing Investors",
-          "tokens": 2708333333.33,
-          "value_usd": 14868750.0,
-          "mcap_pct": 0.585,
-          "unlock_type": "LINEAR"
-        }
-      ],
-      "events_count": 1
-    },
-    {
-      "symbol": "APT",
-      "slug": "aptos",
-      "price_usd": 0.8652,
-      "market_cap_usd": null,
-      "next_unlock_tokens": 4540000.0,
-      "next_unlock_usd": 3930000.0,
-      "next_unlock_mcap_pct": 0.52,
-      "upcoming_events": [
-        {
-          "date": "2026-10-12",
-          "allocation": "Foundation",
-          "tokens": 1333750.0,
-          "value_usd": 1153960.5,
-          "mcap_pct": 0.153,
-          "unlock_type": "LINEAR"
-        }
-      ],
-      "events_count": 1
-    },
-    {
-      "symbol": "UP",
-      "slug": "unitas-labs",
-      "price_usd": 0.1707,
-      "market_cap_usd": null,
-      "next_unlock_tokens": 9180000.0,
-      "next_unlock_usd": 1570000.0,
-      "next_unlock_mcap_pct": 6.29,
-      "upcoming_events": [
-        {
-          "date": "2026-10-13",
-          "allocation": "Ecosystem & Community",
-          "tokens": 9183750.0,
-          "value_usd": 1567666.12,
-          "mcap_pct": 6.29,
-          "unlock_type": "LINEAR"
-        }
-      ],
-      "events_count": 1
-    },
-    {
       "symbol": "C",
       "slug": "chainbase",
-      "price_usd": 0.1016,
+      "price_usd": 0.09744,
       "market_cap_usd": null,
       "next_unlock_tokens": 23230000.0,
-      "next_unlock_usd": 2360000.0,
+      "next_unlock_usd": 2270000.0,
       "next_unlock_mcap_pct": 5.33,
       "upcoming_events": [
         {
           "date": "2026-10-14",
           "allocation": "Worker Incentives",
           "tokens": 1967200.0,
-          "value_usd": 199867.52,
+          "value_usd": 191861.02,
           "mcap_pct": 0.451,
           "unlock_type": "LINEAR"
         }
@@ -86,17 +26,17 @@
     {
       "symbol": "STRK",
       "slug": "starknet",
-      "price_usd": 0.1172,
+      "price_usd": 0.086,
       "market_cap_usd": null,
       "next_unlock_tokens": 128229999.99999999,
-      "next_unlock_usd": 15030000.0,
+      "next_unlock_usd": 10920000.0,
       "next_unlock_mcap_pct": 1.73,
       "upcoming_events": [
         {
           "date": "2026-10-15",
           "allocation": "Early Contributors",
           "tokens": 67728000.0,
-          "value_usd": 7937721.6,
+          "value_usd": 5767716.48,
           "mcap_pct": 0.913,
           "unlock_type": "NONLINEAR"
         }
@@ -106,17 +46,17 @@
     {
       "symbol": "ARB",
       "slug": "arbitrum",
-      "price_usd": 0.1924,
+      "price_usd": 0.1901,
       "market_cap_usd": null,
       "next_unlock_tokens": 93650000.0,
-      "next_unlock_usd": 18020000.0,
+      "next_unlock_usd": 17760000.0,
       "next_unlock_mcap_pct": 1.38,
       "upcoming_events": [
         {
           "date": "2026-10-16",
           "allocation": "Investors",
           "tokens": 36520833.33,
-          "value_usd": 7026608.33,
+          "value_usd": 6924350.0,
           "mcap_pct": 0.538,
           "unlock_type": "LINEAR"
         }
@@ -126,17 +66,17 @@
     {
       "symbol": "AGT",
       "slug": "alaya-ai",
-      "price_usd": 0.01809,
+      "price_usd": 0.01618,
       "market_cap_usd": null,
       "next_unlock_tokens": 160760000.0,
-      "next_unlock_usd": 2910000.0,
+      "next_unlock_usd": 2630000.0,
       "next_unlock_mcap_pct": 3.22,
       "upcoming_events": [
         {
           "date": "2026-10-16",
           "allocation": "KOL",
           "tokens": 4444444.44,
-          "value_usd": 80400.0,
+          "value_usd": 72800.0,
           "mcap_pct": 0.089,
           "unlock_type": "LINEAR"
         }
@@ -146,17 +86,17 @@
     {
       "symbol": "GPS",
       "slug": "goplus",
-      "price_usd": 0.01056,
+      "price_usd": 0.008037,
       "market_cap_usd": null,
       "next_unlock_tokens": 163740000.0,
-      "next_unlock_usd": 1730000.0,
+      "next_unlock_usd": 1310000.0,
       "next_unlock_mcap_pct": 2.84,
       "upcoming_events": [
         {
           "date": "2026-10-16",
           "allocation": "Early Backers",
           "tokens": 80413869.57,
-          "value_usd": 849170.46,
+          "value_usd": 643873.85,
           "mcap_pct": 1.396,
           "unlock_type": "LINEAR"
         }
@@ -166,17 +106,17 @@
     {
       "symbol": "MAGMA",
       "slug": "magma-finance",
-      "price_usd": 0.2205,
+      "price_usd": 0.2247,
       "market_cap_usd": null,
       "next_unlock_tokens": 10410000.0,
-      "next_unlock_usd": 2300000.0,
+      "next_unlock_usd": 2340000.0,
       "next_unlock_mcap_pct": 5.48,
       "upcoming_events": [
         {
           "date": "2026-10-16",
           "allocation": "Ecosystem Reserve",
           "tokens": 10408250.0,
-          "value_usd": 2295019.12,
+          "value_usd": 2339774.6,
           "mcap_pct": 5.478,
           "unlock_type": "LINEAR"
         }
@@ -186,17 +126,17 @@
     {
       "symbol": "VANA",
       "slug": "vana",
-      "price_usd": 1.07,
+      "price_usd": 1.08,
       "market_cap_usd": null,
       "next_unlock_tokens": 2160000.0,
-      "next_unlock_usd": 2320000.0,
+      "next_unlock_usd": 2350000.0,
       "next_unlock_mcap_pct": 7.21,
       "upcoming_events": [
         {
           "date": "2026-10-16",
           "allocation": "Ecosystem",
           "tokens": 452275.0,
-          "value_usd": 485743.35,
+          "value_usd": 491170.65,
           "mcap_pct": 1.508,
           "unlock_type": "LINEAR"
         }
@@ -206,17 +146,17 @@
     {
       "symbol": "STBL",
       "slug": "stbl",
-      "price_usd": 0.02332,
+      "price_usd": 0.0223,
       "market_cap_usd": null,
       "next_unlock_tokens": 323620000.0,
-      "next_unlock_usd": 7550000.0,
+      "next_unlock_usd": 7210000.0,
       "next_unlock_mcap_pct": 46.23,
       "upcoming_events": [
         {
           "date": "2026-10-16",
           "allocation": "Advisors",
           "tokens": 26388888.89,
-          "value_usd": 615388.89,
+          "value_usd": 588208.33,
           "mcap_pct": 3.77,
           "unlock_type": "LINEAR"
         }
@@ -226,17 +166,17 @@
     {
       "symbol": "ROLL",
       "slug": "rollx",
-      "price_usd": 0.0871,
+      "price_usd": 0.08015,
       "market_cap_usd": null,
       "next_unlock_tokens": 20560000.0,
-      "next_unlock_usd": 1790000.0,
+      "next_unlock_usd": 1650000.0,
       "next_unlock_mcap_pct": 13.27,
       "upcoming_events": [
         {
           "date": "2026-10-16",
           "allocation": "Ecosystem & Partners",
           "tokens": 4999166.67,
-          "value_usd": 435427.42,
+          "value_usd": 400633.22,
           "mcap_pct": 3.225,
           "unlock_type": "LINEAR"
         }
@@ -246,17 +186,17 @@
     {
       "symbol": "PENGU",
       "slug": "pudgy-penguins",
-      "price_usd": 0.008264,
+      "price_usd": 0.007969,
       "market_cap_usd": null,
       "next_unlock_tokens": 703920000.0,
-      "next_unlock_usd": 5820000.0,
+      "next_unlock_usd": 5590000.0,
       "next_unlock_mcap_pct": 1.12,
       "upcoming_events": [
         {
           "date": "2026-10-17",
           "allocation": "Company",
           "tokens": 276283950.61,
-          "value_usd": 2283210.57,
+          "value_usd": 2193694.57,
           "mcap_pct": 0.44,
           "unlock_type": "LINEAR"
         }
@@ -266,18 +206,18 @@
     {
       "symbol": "ZK",
       "slug": "zksync",
-      "price_usd": 0.01584,
+      "price_usd": 0.01523,
       "market_cap_usd": null,
       "next_unlock_tokens": 172880000.0,
-      "next_unlock_usd": 2740000.0,
-      "next_unlock_mcap_pct": 1.59,
+      "next_unlock_usd": 2630000.0,
+      "next_unlock_mcap_pct": 1.58,
       "upcoming_events": [
         {
           "date": "2026-10-17",
           "allocation": "Team",
           "tokens": 83585833.33,
-          "value_usd": 1323999.6,
-          "mcap_pct": 0.767,
+          "value_usd": 1273012.24,
+          "mcap_pct": 0.762,
           "unlock_type": "LINEAR"
         }
       ],
@@ -286,17 +226,17 @@
     {
       "symbol": "DBR",
       "slug": "debridge",
-      "price_usd": 0.01927,
+      "price_usd": 0.01951,
       "market_cap_usd": null,
       "next_unlock_tokens": 633600000.0,
-      "next_unlock_usd": 12210000.0,
+      "next_unlock_usd": 12370000.0,
       "next_unlock_mcap_pct": 35.2,
       "upcoming_events": [
         {
           "date": "2026-10-17",
           "allocation": "Community & Launch",
           "tokens": 74994545.45,
-          "value_usd": 1445144.89,
+          "value_usd": 1463893.53,
           "mcap_pct": 4.166,
           "unlock_type": "LINEAR"
         }
@@ -306,17 +246,17 @@
     {
       "symbol": "ZBT",
       "slug": "zerobase",
-      "price_usd": 0.08087,
+      "price_usd": 0.07862,
       "market_cap_usd": null,
       "next_unlock_tokens": 15750000.0,
-      "next_unlock_usd": 1270000.0,
+      "next_unlock_usd": 1240000.0,
       "next_unlock_mcap_pct": 4.88,
       "upcoming_events": [
         {
           "date": "2026-10-17",
           "allocation": "Early Investors",
           "tokens": 4500000.0,
-          "value_usd": 363915.0,
+          "value_usd": 354060.0,
           "mcap_pct": 1.394,
           "unlock_type": "CLIFF"
         }
@@ -326,17 +266,17 @@
     {
       "symbol": "ERA",
       "slug": "caldera-era",
-      "price_usd": 0.07698,
+      "price_usd": 0.06649,
       "market_cap_usd": null,
       "next_unlock_tokens": 23800000.0,
-      "next_unlock_usd": 1830000.0,
+      "next_unlock_usd": 1580000.0,
       "next_unlock_mcap_pct": 16.03,
       "upcoming_events": [
         {
           "date": "2026-10-17",
           "allocation": "R&D",
           "tokens": 1600000.0,
-          "value_usd": 123168.0,
+          "value_usd": 106112.0,
           "mcap_pct": 1.077,
           "unlock_type": "LINEAR"
         }
@@ -346,17 +286,17 @@
     {
       "symbol": "BARD",
       "slug": "lombard",
-      "price_usd": 0.1251,
+      "price_usd": 0.1189,
       "market_cap_usd": null,
       "next_unlock_tokens": 19500000.0,
-      "next_unlock_usd": 2440000.0,
+      "next_unlock_usd": 2320000.0,
       "next_unlock_mcap_pct": 5.36,
       "upcoming_events": [
         {
           "date": "2026-10-18",
           "allocation": "Ecosystem Development",
           "tokens": 5937729.17,
-          "value_usd": 742809.92,
+          "value_usd": 705996.0,
           "mcap_pct": 1.632,
           "unlock_type": "LINEAR"
         }
@@ -366,17 +306,17 @@
     {
       "symbol": "MERL",
       "slug": "merlin-chain",
-      "price_usd": 0.03125,
+      "price_usd": 0.03183,
       "market_cap_usd": null,
       "next_unlock_tokens": 37710000.0,
-      "next_unlock_usd": 1180000.0,
+      "next_unlock_usd": 1200000.0,
       "next_unlock_mcap_pct": 2.71,
       "upcoming_events": [
         {
           "date": "2026-10-19",
           "allocation": "Advisors",
           "tokens": 2032170.0,
-          "value_usd": 63505.31,
+          "value_usd": 64623.01,
           "mcap_pct": 0.146,
           "unlock_type": "LINEAR"
         }
@@ -386,18 +326,18 @@
     {
       "symbol": "ZRO",
       "slug": "layerzero",
-      "price_usd": 2.0,
+      "price_usd": 2.13,
       "market_cap_usd": null,
       "next_unlock_tokens": 24680000.0,
-      "next_unlock_usd": 49380000.0,
-      "next_unlock_mcap_pct": 6.18,
+      "next_unlock_usd": 52790000.0,
+      "next_unlock_mcap_pct": 6.17,
       "upcoming_events": [
         {
           "date": "2026-10-20",
           "allocation": "Tokens Repurchased",
           "tokens": 1600000.0,
-          "value_usd": 3201600.0,
-          "mcap_pct": 0.401,
+          "value_usd": 3422400.0,
+          "mcap_pct": 0.4,
           "unlock_type": "LINEAR"
         }
       ],
@@ -406,17 +346,17 @@
     {
       "symbol": "KAITO",
       "slug": "kaito",
-      "price_usd": 0.3208,
+      "price_usd": 0.3134,
       "market_cap_usd": null,
       "next_unlock_tokens": 17600000.0,
-      "next_unlock_usd": 5650000.0,
+      "next_unlock_usd": 5510000.0,
       "next_unlock_mcap_pct": 7.29,
       "upcoming_events": [
         {
           "date": "2026-10-20",
           "allocation": "Early Backers",
           "tokens": 2305502.86,
-          "value_usd": 739605.32,
+          "value_usd": 721852.94,
           "mcap_pct": 0.955,
           "unlock_type": "LINEAR"
         }
@@ -426,17 +366,17 @@
     {
       "symbol": "SAPIEN",
       "slug": "sapien-2",
-      "price_usd": 0.07082,
+      "price_usd": 0.0694,
       "market_cap_usd": null,
       "next_unlock_tokens": 26370000.0,
-      "next_unlock_usd": 1870000.0,
+      "next_unlock_usd": 1830000.0,
       "next_unlock_mcap_pct": 10.55,
       "upcoming_events": [
         {
           "date": "2026-10-20",
           "allocation": "Community Treasury",
           "tokens": 3513611.11,
-          "value_usd": 248833.94,
+          "value_usd": 243774.34,
           "mcap_pct": 1.405,
           "unlock_type": "LINEAR"
         }
@@ -446,17 +386,17 @@
     {
       "symbol": "AKE",
       "slug": "akedo-games",
-      "price_usd": 0.02708,
+      "price_usd": 0.0245,
       "market_cap_usd": null,
       "next_unlock_tokens": 2109999999.9999998,
-      "next_unlock_usd": 57080000.0,
+      "next_unlock_usd": 51600000.0,
       "next_unlock_mcap_pct": 9.25,
       "upcoming_events": [
         {
           "date": "2026-10-21",
           "allocation": "Advisors",
           "tokens": 116273809.52,
-          "value_usd": 3148694.76,
+          "value_usd": 2846382.86,
           "mcap_pct": 0.51,
           "unlock_type": "LINEAR"
         }
@@ -466,17 +406,17 @@
     {
       "symbol": "PLUME",
       "slug": "plume-network",
-      "price_usd": 0.01897,
+      "price_usd": 0.02104,
       "market_cap_usd": null,
       "next_unlock_tokens": 239650000.0,
-      "next_unlock_usd": 4550000.0,
+      "next_unlock_usd": 5040000.0,
       "next_unlock_mcap_pct": 3.63,
       "upcoming_events": [
         {
           "date": "2026-10-21",
           "allocation": "Foundation",
           "tokens": 35136111.11,
-          "value_usd": 666532.03,
+          "value_usd": 739263.78,
           "mcap_pct": 0.532,
           "unlock_type": "LINEAR"
         }
@@ -486,18 +426,18 @@
     {
       "symbol": "SKR",
       "slug": "seeker",
-      "price_usd": 0.01654,
+      "price_usd": 0.01651,
       "market_cap_usd": null,
       "next_unlock_tokens": 100000000.0,
       "next_unlock_usd": 1650000.0,
-      "next_unlock_mcap_pct": 1.98,
+      "next_unlock_mcap_pct": 1.99,
       "upcoming_events": [
         {
           "date": "2026-10-21",
           "allocation": "Growth & Partnerships",
           "tokens": 100000000.0,
-          "value_usd": 1654000.0,
-          "mcap_pct": 1.983,
+          "value_usd": 1651000.0,
+          "mcap_pct": 1.986,
           "unlock_type": "LINEAR"
         }
       ],
@@ -506,17 +446,17 @@
     {
       "symbol": "TA",
       "slug": "trusta-ai",
-      "price_usd": 0.05178,
+      "price_usd": 0.04897,
       "market_cap_usd": null,
       "next_unlock_tokens": 23470000.0,
-      "next_unlock_usd": 1220000.0,
+      "next_unlock_usd": 1150000.0,
       "next_unlock_mcap_pct": 6.03,
       "upcoming_events": [
         {
           "date": "2026-10-21",
           "allocation": "Advisors",
           "tokens": 810833.33,
-          "value_usd": 41984.95,
+          "value_usd": 39706.51,
           "mcap_pct": 0.208,
           "unlock_type": "LINEAR"
         }
@@ -526,78 +466,29 @@
     {
       "symbol": "LAZIO",
       "slug": "lazio-fan-token",
-      "price_usd": 0.413,
+      "price_usd": 0.4331,
       "market_cap_usd": null,
       "next_unlock_tokens": 3400000.0,
-      "next_unlock_usd": 1400000.0,
+      "next_unlock_usd": 1490000.0,
       "next_unlock_mcap_pct": 25.8,
-      "upcoming_events": [
-        {
-          "date": "2026-10-21",
-          "allocation": "Developer Fund",
-          "tokens": 800000.0,
-          "value_usd": 330400.0,
-          "mcap_pct": 6.07,
-          "unlock_type": "LINEAR"
-        }
-      ],
-      "events_count": 1
+      "upcoming_events": [],
+      "events_count": 0
     },
     {
       "symbol": "0G",
       "slug": "0g",
-      "price_usd": 0.2672,
+      "price_usd": 0.2599,
       "market_cap_usd": null,
       "next_unlock_tokens": 20620000.0,
-      "next_unlock_usd": 5510000.0,
+      "next_unlock_usd": 5360000.0,
       "next_unlock_mcap_pct": 9.67,
       "upcoming_events": [
         {
           "date": "2026-10-22",
           "allocation": "Node Sale",
           "tokens": 2779166.67,
-          "value_usd": 742593.33,
+          "value_usd": 722583.33,
           "mcap_pct": 1.304,
-          "unlock_type": "LINEAR"
-        }
-      ],
-      "events_count": 1
-    },
-    {
-      "symbol": "RIVER",
-      "slug": "river",
-      "price_usd": 1.16,
-      "market_cap_usd": null,
-      "next_unlock_tokens": 1320000.0,
-      "next_unlock_usd": 1530000.0,
-      "next_unlock_mcap_pct": 3.54,
-      "upcoming_events": [
-        {
-          "date": "2026-10-22",
-          "allocation": "Investors",
-          "tokens": 540000.0,
-          "value_usd": 626400.0,
-          "mcap_pct": 1.452,
-          "unlock_type": "NONLINEAR"
-        }
-      ],
-      "events_count": 1
-    },
-    {
-      "symbol": "HYPER",
-      "slug": "hyper-coin",
-      "price_usd": 0.07131,
-      "market_cap_usd": null,
-      "next_unlock_tokens": 27520000.0,
-      "next_unlock_usd": 1960000.0,
-      "next_unlock_mcap_pct": 15.71,
-      "upcoming_events": [
-        {
-          "date": "2026-10-22",
-          "allocation": "Foundation Treasury",
-          "tokens": 2293449.0,
-          "value_usd": 163545.85,
-          "mcap_pct": 1.309,
           "unlock_type": "LINEAR"
         }
       ],
